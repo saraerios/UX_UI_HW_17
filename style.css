@@ -73,6 +73,9 @@ body {
     text-decoration: none;
     font-size: 22px;
 }
-.p 1 {
+.p1, p2, p3, p4 {
     font-family: 'Poppins';
+}
+.p {
+    text-indent: 50px;
 }
