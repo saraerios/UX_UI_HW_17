@@ -94,14 +94,22 @@ font-family: 'Poppins';
 padding-left: 90px;
 padding-right: 90px;
 padding-top: 200px;
+font-size: 32px;
 }
 .header h4  {
   display: block;
   font-family: 'Poppins';
   padding-left: 90px;
   padding-right: 90px;
+  font-size: 15px;
 }
-
+.header h5 {
+  display: block;
+  font-family: 'Poppins';
+  padding-left: 90px;
+  padding-right: 90px;
+  font-size: 20px;
+}
 .p0 {
   display: block;
   font-family: 'Poppins';
