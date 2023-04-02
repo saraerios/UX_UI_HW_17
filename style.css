@@ -4,7 +4,7 @@ body {
 
 body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Poppins;
   }
   .topnav {
     overflow: hidden;
@@ -73,9 +73,61 @@ body {
     text-decoration: none;
     font-size: 22px;
 }
-.p1, p2, p3, p4 {
-    font-family: 'Poppins';
+.header h3 {
+        display: block;
+        font-family: 'Poppins';
+        padding-left: 90px;
+        padding-right: 90px;
 }
-.p {
-    text-indent: 50px;
+.header h4  {
+    display: block;
+    font-family: 'Poppins';
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.p0 {
+    display: block;
+    font-family: 'Poppins';
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.p1 {
+    display: block;
+    font-family: 'Poppins';
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.p2 {
+    display: block;
+    font-family: 'Poppins';
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.p3 {
+    display: block;
+    font-family: 'Poppins';
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.p4 {
+    display: block;
+    font-family: 'Poppins';
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+
+
+
+.heroImg footer {
+    background-color: #B8B8AB;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px
+}
+.ul {
+    display: inline-block;
+    vertical-align: top;
 }
