@@ -1,9 +1,9 @@
 body {
-  background-color: #FAFAF8;
+  background-color: #FFFEFE;
 }
 
 body {
-  margin: 0;
+  margin: 50;
   font-family: Poppins;
 }
 .topnav {
@@ -57,7 +57,11 @@ body {
     text-align: left;
   }
 
-
+.topright {
+  display: block;
+  float: right;
+  background-color: #FAFAF8;
+}
 .saraselfie {
   float: left;
   padding-left: 80px;
@@ -67,17 +71,20 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.header h1 {
+.box {
+  background-color: #FAFAF8;
+}
+.headermain h1 {
   text-align: center;
   text-decoration: none;
   font-size: 37px;
   font-family: 'Poppins';
 }
-.header h2 {
+.headermain h2 {
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
-  font-size: 22px;
+  font-size: 20px;
 }
 .header h3 {
 display: block;
@@ -147,7 +154,7 @@ button {
   outline: #B8B8AB;
 }
 .heroImg footer {
-  background-color: #B8B8AB;
+  background-color: #FAFAF8;
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 50px;
